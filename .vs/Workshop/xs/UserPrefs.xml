@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7E8729D7-6B97-FBDA-BDAF-735746CA4F42}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoatShader.shader">
+    <Files>
+      <File FileName="Assets/RotateGoat.cs.meta" Line="9" Column="37" />
+      <File FileName="Assets/KeyboardCameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/SphereThrower.cs" Line="9" Column="21" />
+      <File FileName="Assets/GoatShader.shader" Line="8" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
