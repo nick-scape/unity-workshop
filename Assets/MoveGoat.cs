@@ -17,7 +17,7 @@ public class MoveGoat : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-    	rotation += rotationSpeed;
+    	rotation += rotationSpeed * Time.deltaTime;
         this.gameObject.transform.rotation = Quaternion.AngleAxis(rotation, Vector3.up);
     }
 }
